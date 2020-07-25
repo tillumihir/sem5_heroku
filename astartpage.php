@@ -2,7 +2,7 @@
 <head>
 	<title>Select User</title>
 	<link rel="stylesheet" type="text/css" href="css/startpage.css">
-	<link rel="icon" type="image/png" href="css/images/icon1.png">
+	<link rel="icon" type="image/png" href="icon1.png">
 	<meta name="viewport" content="width=device-width, initial-scale=-1">
 </head>
 <body>
