@@ -1,0 +1,66 @@
+
+
+@media (max-width: 480px) { 
+            body{
+	background-image: url("images/cool-background.png");
+	} 
+        }
+        body{
+	background-image: url("images/cool-background.png");
+	} 
+.box{
+	margin : 80px 600px;
+	width: 350;
+	height: 600;
+	
+	border-radius: 15px;
+	opacity:1;
+		background: rgb(238,159,159);
+background: linear-gradient(90deg, rgba(238,159,159,1) 0%, rgba(234,175,203,1) 63%, rgba(255,153,251,0.7570378493194152) 100%);
+}
+
+.image{
+	width: 120;
+	height: 120;
+	margin-left: -300;
+	margin-top: -100;
+}
+img{
+	transform: scale(0.4);
+}
+.box:hover{
+		opacity: 3.0;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.formin{
+	opacity: 1;
+}
+input{
+	display: inline-block;
+	margin-left: -60;
+	margin-right: auto;
+	background-color: #555555;
+		color: white;
+	padding: 1px;
+	text-align: center;
+	text-decoration: blink;
+	display: inline-block;
+	cursor: pointer;
+	border-radius: 14px;
+	height: 40px;
+	width: 130px;
+}
+input:hover{
+	transform: scale(1.2);
+}
+pre{
+	text-decoration: underline;
+	text-shadow: 2px 2px 7px black;
+	font:"Comic Sans MS", cursive, sans-serif;
+	font-size: 20px;
+}
+footer{
+	text-decoration: none;
+	text-shadow: none;
+	margin-top: -105;
+}
